@@ -21,5 +21,5 @@
 <p><em>Created in HTML on VS Code</em></p>
 <h3 id="license">License</h3>
 <p><em>GPL</em></p>
-<p>Copyright © 2020 <strong><em>Scott O’Neil<a href="https://github.com/spnoneil/my-first-webpage/blob/main/README.md#my-first-webpage">enter link description here</a></em></strong></p>
+<p>Copyright © 2020 <strong><em>Scott O’Neil<a href="https://github.com/spnoneil/my-first-webpage/blob/main/README.md#my-first-webpage"></a></em></strong></p>
 
